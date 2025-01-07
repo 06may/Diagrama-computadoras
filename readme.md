@@ -1,7 +1,7 @@
 
 ### MODELADO DE RELACIONES CON UML
 
-###Objetivo
+### Objetivo
 
 Identificar y modelar las clases involucradas en el enunciado especificando sus atributos, responsabilidades y principalmente las relaciones entre las mismas. Especificar la multiplicidad en dichas relaciones.
 
